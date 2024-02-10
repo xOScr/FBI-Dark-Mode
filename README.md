@@ -1,8 +1,8 @@
-# FBI
+# FBI Dark Mode
 
-FBI is an open source title manager for the 3DS.
+FBI Dark Mode is an open source title manager for the 3DS in dark mode.
 
-Download: https://github.com/Steveice10/FBI/releases
+Download: https://github.com/xOScr/FBI-Dark-Mode/releases
 
 Requires [devkitARM](http://sourceforge.net/projects/devkitpro/files/devkitARM/), along with 3ds-curl, 3ds-zlib, and 3ds-jansson from the devkitPro pacman repository, to build.
 
@@ -28,3 +28,5 @@ Banner: Originally created by [OctopusRift](http://gbatemp.net/members/octopusri
 Logo: [PabloMK7](http://gbatemp.net/members/pablomk7.345712/)
 
 SPI Protocol Information: [TuxSH](https://github.com/TuxSH/) ([TWLSaveTool](https://github.com/TuxSH/TWLSaveTool))
+
+Dark Mode assets: [Shadowhand](https://gbatemp.net/members/shadowhand.384450/) and [TurdPooCharger](https://gbatemp.net/members/turdpoocharger.439233/)

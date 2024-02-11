@@ -1,6 +1,6 @@
 # FBI Dark Mode
 
-FBI Dark Mode is an open source title manager for the 3DS in dark mode.
+FBI Dark Mode is an open source title manager for the 3DS.
 
 Download: https://github.com/xOScr/FBI-Dark-Mode/releases
 
@@ -8,6 +8,7 @@ Requires [devkitARM](http://sourceforge.net/projects/devkitpro/files/devkitARM/)
 
 # Features
 
+* Dark Mode.
 * Browse and modify the SD card, TWL photos, TWL sounds, save data, and ext save data.
 * Export, import, and erase save data from DS cartridges.
 * Export, import, and delete save data secure values.
